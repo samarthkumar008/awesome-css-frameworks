@@ -117,6 +117,13 @@ Frameworks that are smaller than ~5KB.
   [Repo](https://github.com/foundation/foundation-sites)
   | #SCSS
 
+- [**Codearc**](https://getcodearc.vercel.app/) -  The go-to framework for web designers & developers to build their first website easily with Codearc 🌱. 
+  ![](https://img.shields.io/github/stars/codearclab/codearc.svg?style=social&label=Star)
+  [Demo](https://getcodearc.vercel.app),
+  [Docs](https://getcodearc.vercel.app),
+  [Repo](https://github.com/codearclab/codearc/)
+  | #CSS #JS
+
 - [**UIkit**](https://getuikit.com) - Lightweight and modular front-end framework for developing fast and powerful web interfaces.  
   ![](https://img.shields.io/github/stars/uikit/uikit.svg?style=social&label=Star)
   [Demo](https://getuikit.com/v2/showcase/index.html),
